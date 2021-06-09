@@ -7,8 +7,11 @@ function App() {
     <div>
       <Article />
       <Comment />
+     
+      
+    <div id='about'> About </div> 
+    
     </div>
   );
 }
-
 export default App;
